@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gilles-portfolio/static/css/main.b8e41e45.css",
+    "main.js": "/gilles-portfolio/static/js/main.d4218049.js",
+    "static/js/453.b329555d.chunk.js": "/gilles-portfolio/static/js/453.b329555d.chunk.js",
+    "static/media/profil.jpg": "/gilles-portfolio/static/media/profil.1f314891818ae6c8e9c2.jpg",
+    "index.html": "/gilles-portfolio/index.html",
+    "main.b8e41e45.css.map": "/gilles-portfolio/static/css/main.b8e41e45.css.map",
+    "main.d4218049.js.map": "/gilles-portfolio/static/js/main.d4218049.js.map",
+    "453.b329555d.chunk.js.map": "/gilles-portfolio/static/js/453.b329555d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8e41e45.css",
+    "static/js/main.d4218049.js"
+  ]
+}
